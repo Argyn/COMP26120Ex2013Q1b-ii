@@ -1,3 +1,7 @@
+Usage:<br/>
+javac DFS.java<br/>
+java DFS test<br/>
+<hr/> 
 The format of the input
 <br/>
 <strong>NODE</strong> [index] [cost of staying]
