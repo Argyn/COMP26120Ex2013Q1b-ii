@@ -1,5 +1,6 @@
 The format of the input
 NODE [index] [cost of staying]
+\n
 EDGE [index of vertex1] [index of vertex2] [distance]
 
 Graph is undirected so EDGE 1 2 will suffice, no EDGE 2 1 is needed.
